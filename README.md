@@ -7,10 +7,7 @@ Created a fitness tracking application utilizing Node.js, Express.js, MongoDB, H
 ## Heroku app: 
 https://too-fit-to-quit.herokuapp.com/
 
-## Images
-Image of main view:
-![Image of user's view when you visit the site](./public/images/main-view.png)
-
+## Image
 Image of Workout Dashboard
 ![Image of user's view when looking at the Workout Dashboard](./public/images/workout-dashboard.png)
 
