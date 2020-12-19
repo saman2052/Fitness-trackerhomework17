@@ -5,7 +5,7 @@ The visitor is able to track a workout. Various attributes of the workout can be
 Created a fitness tracking application utilizing Node.js, Express.js, MongoDB, Heroku and Mongoose. Allows the user to track their workouts and then save them in a database.
 
 ## Heroku app: 
-https://too-fit-to-quit.herokuapp.com/
+https://jpf-workout-tracker.herokuapp.com/
 
 ## Image
 Image of Workout Dashboard
